@@ -140,7 +140,6 @@
     _dirty = YES;
 }
 
-<<<<<<< HEAD
 // -----------------------------------------------------------------
 #pragma mark - nodes at specific positions
 // -----------------------------------------------------------------
@@ -183,7 +182,7 @@
     // if nothing was found, an empty array will be returned
     return(result);
 }
-=======
+
 #pragma mark - Getting responder list
 
 - (NSArray*) responders
@@ -199,8 +198,6 @@
     
     return responders;
 }
-
->>>>>>> afb306027a2d014a5f5aa97da8c5c023ee4fe57a
 
 // -----------------------------------------------------------------
 #pragma mark - iOS touch handling -
